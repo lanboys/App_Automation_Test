@@ -8,4 +8,4 @@
 
 
 ## 监控指令
- adb logcat | grep START
+ >**adb logcat | grep START**
